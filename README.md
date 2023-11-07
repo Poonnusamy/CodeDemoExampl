@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 # Installation
 1.Clone the repository to your local machine:
 
-git clone 
+git clone https://github.com/Poonnusamy/CodeDemoExampl.git
 2.Change to the project directory:
 
 cd market-basket-insights
